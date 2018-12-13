@@ -728,7 +728,7 @@ bot10.on(`ready`, () => {
   
   let channel = bot10.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
 }
