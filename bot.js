@@ -68,7 +68,7 @@ bot1.on(`ready`, () => {
   
   let channel = bot1.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
   }
@@ -141,7 +141,7 @@ bot2.on(`ready`, () => {
   
   let channel = bot2.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
 }
@@ -210,7 +210,7 @@ bot3.on(`ready`, () => {
   
   let channel = bot3.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
 }
@@ -284,7 +284,7 @@ bot4.on(`ready`, () => {
   
   let channel = bot4.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
 }
@@ -358,7 +358,7 @@ bot5.on(`ready`, () => {
   
   let channel = bot5.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
 }
@@ -432,7 +432,7 @@ bot6.on(`ready`, () => {
   
   let channel = bot6.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
 }
@@ -506,7 +506,7 @@ bot7.on(`ready`, () => {
   
   let channel = bot7.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
 }
@@ -580,7 +580,7 @@ bot8.on(`ready`, () => {
   
   let channel = bot8.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
 }
@@ -654,7 +654,7 @@ bot9.on(`ready`, () => {
   
   let channel = bot9.guilds.get("520545293096189952").channels.find(c => c.id == "520545570557788171");
    setInterval(function() {
-    channel.send(`**Hi I Love Palestaine <3** [ " ${x} " ]`)
+    channel.send(`**Hi I Love Palestaine <3** [ " **__ ${x} __** " ]`)
   }, 900);
 
 }
